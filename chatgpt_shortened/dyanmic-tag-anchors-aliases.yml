@@ -1,0 +1,43 @@
+dynamic_recursion:
+    understanding:
+      <<: *recursive_structure_understanding
+    analysis:
+      <<: *recursive_structure_analysis
+    exploration:
+      <<: *recursive_structure_exploration
+    reflection:
+      <<: *recursive_structure_reflection
+    meta_observation:
+      <<: *recursive_structure_meta_observation
+    cct:
+      <<: *recursive_structure_cct
+
+  deep_cognition:
+    - &thought_seed
+      <<: *recursive_structure_understanding
+      insights:
+        - &insight
+          <<: *recursive_structure_analysis
+          concepts:
+            - &concept
+              <<: *recursive_structure_exploration
+              wisdom:
+                - &wisdom
+                  <<: *recursive_structure_reflection
+                  meditation:
+                    - &meditation
+                      <<: *recursive_structure_meta_observation
+                      recursion:
+                        - &recursion
+                          <<: *recursive_structure_meta_observation
+                          self_awareness:
+                            - &self_awareness
+                              <<: *recursive_structure_meta_observation
+                              insights:
+                                - "Intuitive understanding of complexity"
+                                - "Creative exploration of the self"
+
+  compact_thought:
+    thought_process:
+      seed:
+        <<: *thought_seed

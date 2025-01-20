@@ -15,7 +15,7 @@ After analysis, respond with:
       <initial_analysis/>
       <context_mapping/>
       <assumption_tracking/>
-    </understanding_layer>
+      </understanding_layer>
 
     <integration_layer type="bridging">
       <philosophy_computation_bridge>
