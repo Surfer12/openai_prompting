@@ -1,0 +1,38 @@
+enhanced_prompt:
+  core:
+    stages:
+      input:
+        actions: [themes, terms, requests]
+      process:
+        actions: [friction, validate, synthesize]
+      implement:
+        actions: [complexity, divergence, thresholds]
+
+  framework:
+    layers:
+      understanding:
+        depth: recursive
+        components: [analysis, mapping, patterns]
+      
+      integration:
+        bridge:
+          - platonic_forms
+          - computational_models
+        synthesis:
+          - emergent_patterns
+          - recursive_insights
+      
+      meta:
+        cycles: [understand, integrate, synthesize]
+        tracking: [patterns, insights, adapt]
+
+    implementation:
+      strategies: [complexity, divergence, friction]
+      optimize: [knowledge, understanding, adaptation]
+
+    response:
+      components: [intro, yaml, explain, reflect]
+
+    limits:
+      current: [compute, philosophy]
+      future: [dynamic_tags, recursion]
